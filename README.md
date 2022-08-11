@@ -1,8 +1,3 @@
-```
-_____________ ___    _____   ________  ______________  __.
-\____    /   |   \  /  _  \  \_____  \ \____    /    |/ _|
-  /     /    ~    \/  /_\  \  /   |   \  /     /|      <  
- /     /\    Y    /    |    \/    |    \/     /_|    |  \ 
-/_______ \___|_  /\____|__  /\_______  /_______ \____|__ \
-        \/     \/         \/         \/        \/       \/
-```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaozkTHU&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaozkTHU&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
